@@ -3,7 +3,7 @@
 
 ## AIM:
 
-To implement the simple substitution technique named Caesar cipher using C language.
+To implement the simple substitution technique named Caesar cipher using Python language.
 
 ## DESCRIPTION:
 
@@ -68,3 +68,8 @@ print("DECRYPTED TEXT:", decrypted)
 
 
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/fa5e0f01-fa74-43ee-ab20-76567822e3d9" />
+
+
+
+## Result:
+The implementation of the simple substitution technique named Caesar cipher using Python language was completed and executed successfully.
